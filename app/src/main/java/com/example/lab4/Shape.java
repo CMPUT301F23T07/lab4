@@ -2,6 +2,5 @@ package com.example.lab4;
 
 public abstract class Shape {
     protected Integer x, y;
-    String color = "cyan";
-
+    protected String color = "cyan";
 }
